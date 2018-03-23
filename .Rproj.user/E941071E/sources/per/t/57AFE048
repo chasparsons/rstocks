@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521776270586.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1571013337",
+    "id" : "57AFE048",
+    "lastKnownWriteTime" : 1521780886,
+    "last_content_update" : 1521780886792,
+    "path" : "~/development/rstocks/portfolio.R",
+    "project_path" : "portfolio.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "22",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

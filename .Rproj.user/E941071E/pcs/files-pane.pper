@@ -1,0 +1,9 @@
+{
+    "path" : "~/development/rstocks",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

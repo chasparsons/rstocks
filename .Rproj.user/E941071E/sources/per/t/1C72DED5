@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521779762926.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1C72DED5",
+    "lastKnownWriteTime" : 2317439967232614144,
+    "last_content_update" : 1521779762926,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4F28C3F6",
+        "caption" : "closing_prices",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=closing_prices&cache_key=4F28C3F6",
+        "displayedObservations" : "307",
+        "environment" : "",
+        "object" : "closing_prices",
+        "preview" : "0",
+        "totalObservations" : "307",
+        "variables" : "14"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521482648181.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E283EB08",
+    "lastKnownWriteTime" : 2482448084909518848,
+    "last_content_update" : 1521482648181,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C49348DE",
+        "caption" : "AAPL",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=AAPL&cache_key=C49348DE",
+        "displayedObservations" : 189,
+        "environment" : "",
+        "object" : "AAPL",
+        "preview" : 0,
+        "totalObservations" : 189,
+        "variables" : 6
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
